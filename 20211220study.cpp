@@ -41,7 +41,7 @@ int main()
     smartphone2.storageSpace = 64;
     smartphone2.color = "gray";
     smartphone2.price = 888.88;
-
+法沙发沙发
     person p;
     p.name = "wangheng";
     p.age = 22;
